@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Gamified Learning Platform</string>
+    <string name="title_activity_main">Gamified Learning Platform</string>
+    <string name="package_name">com.abcd.com</string>
+    <string name="custom_url_scheme">com.abcd.com</string>
+</resources>
